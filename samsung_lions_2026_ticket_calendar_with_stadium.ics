@@ -3,7 +3,7 @@ PRODID:-//OpenAI//KBO Ticket Calendar//KO
 VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-X-WR-CALNAME:삼성라이온즈 2026 예매 캘린더
+X-WR-CALNAME:삼성 2026 예매 캘린더
 X-WR-TIMEZONE:Asia/Seoul
 BEGIN:VTIMEZONE
 TZID:Asia/Seoul
@@ -20,8 +20,8 @@ UID:samsung-presale-series-1@ticket-calendar
 DTSTAMP:20260315T114608Z
 DTSTART;TZID=Asia/Seoul:20260320T110000
 DTEND;TZID=Asia/Seoul:20260320T110500
-SUMMARY:[선예매] 삼성라이온즈 vs 롯데 (대구 삼성라이온즈파크)
-DESCRIPTION:삼성라이온즈 홈 시리즈 선예매\n상대팀: 롯데\n구장: 대구 삼성라이온즈파크\n시리즈 시작일: 2026-03-
+SUMMARY:[선예매] 삼성 vs 롯데 (대구 삼성라이온즈파크)
+DESCRIPTION:삼성 홈 시리즈 선예매\n상대팀: 롯데\n구장: 대구 삼성라이온즈파크\n시리즈 시작일: 2026-03-
  28
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -36,8 +36,8 @@ UID:samsung-general-series-1@ticket-calendar
 DTSTAMP:20260315T114608Z
 DTSTART;TZID=Asia/Seoul:20260321T110000
 DTEND;TZID=Asia/Seoul:20260321T110500
-SUMMARY:[일반예매] 삼성라이온즈 vs 롯데 (대구 삼성라이온즈파크)
-DESCRIPTION:삼성라이온즈 홈 시리즈 일반예매\n상대팀: 롯데\n구장: 대구 삼성라이온즈파크\n시리즈 시작일: 2026-03
+SUMMARY:[일반예매] 삼성 vs 롯데 (대구 삼성라이온즈파크)
+DESCRIPTION:삼성 홈 시리즈 일반예매\n상대팀: 롯데\n구장: 대구 삼성라이온즈파크\n시리즈 시작일: 2026-03
  -28
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -52,8 +52,8 @@ UID:samsung-presale-series-2@ticket-calendar
 DTSTAMP:20260315T114608Z
 DTSTART;TZID=Asia/Seoul:20260323T110000
 DTEND;TZID=Asia/Seoul:20260323T110500
-SUMMARY:[선예매] 삼성라이온즈 vs 두산 (대구 삼성라이온즈파크)
-DESCRIPTION:삼성라이온즈 홈 시리즈 선예매\n상대팀: 두산\n구장: 대구 삼성라이온즈파크\n시리즈 시작일: 2026-03-
+SUMMARY:[선예매] 삼성 vs 두산 (대구 삼성라이온즈파크)
+DESCRIPTION:삼성 홈 시리즈 선예매\n상대팀: 두산\n구장: 대구 삼성라이온즈파크\n시리즈 시작일: 2026-03-
  31
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -68,8 +68,8 @@ UID:samsung-general-series-2@ticket-calendar
 DTSTAMP:20260315T114608Z
 DTSTART;TZID=Asia/Seoul:20260324T110000
 DTEND;TZID=Asia/Seoul:20260324T110500
-SUMMARY:[일반예매] 삼성라이온즈 vs 두산 (대구 삼성라이온즈파크)
-DESCRIPTION:삼성라이온즈 홈 시리즈 일반예매\n상대팀: 두산\n구장: 대구 삼성라이온즈파크\n시리즈 시작일: 2026-03
+SUMMARY:[일반예매] 삼성 vs 두산 (대구 삼성라이온즈파크)
+DESCRIPTION:삼성 홈 시리즈 일반예매\n상대팀: 두산\n구장: 대구 삼성라이온즈파크\n시리즈 시작일: 2026-03
  -31
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -84,8 +84,8 @@ UID:samsung-presale-series-3@ticket-calendar
 DTSTAMP:20260315T114608Z
 DTSTART;TZID=Asia/Seoul:20260402T110000
 DTEND;TZID=Asia/Seoul:20260402T110500
-SUMMARY:[선예매] 삼성라이온즈 vs NC (대구 삼성라이온즈파크)
-DESCRIPTION:삼성라이온즈 홈 시리즈 선예매\n상대팀: NC\n구장: 대구 삼성라이온즈파크\n시리즈 시작일: 2026-04-
+SUMMARY:[선예매] 삼성 vs NC (대구 삼성라이온즈파크)
+DESCRIPTION:삼성 홈 시리즈 선예매\n상대팀: NC\n구장: 대구 삼성라이온즈파크\n시리즈 시작일: 2026-04-
  10
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -100,8 +100,8 @@ UID:samsung-general-series-3@ticket-calendar
 DTSTAMP:20260315T114608Z
 DTSTART;TZID=Asia/Seoul:20260403T110000
 DTEND;TZID=Asia/Seoul:20260403T110500
-SUMMARY:[일반예매] 삼성라이온즈 vs NC (대구 삼성라이온즈파크)
-DESCRIPTION:삼성라이온즈 홈 시리즈 일반예매\n상대팀: NC\n구장: 대구 삼성라이온즈파크\n시리즈 시작일: 2026-04
+SUMMARY:[일반예매] 삼성 vs NC (대구 삼성라이온즈파크)
+DESCRIPTION:삼성 홈 시리즈 일반예매\n상대팀: NC\n구장: 대구 삼성라이온즈파크\n시리즈 시작일: 2026-04
  -10
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -116,8 +116,8 @@ UID:samsung-presale-series-4@ticket-calendar
 DTSTAMP:20260315T114608Z
 DTSTART;TZID=Asia/Seoul:20260409T110000
 DTEND;TZID=Asia/Seoul:20260409T110500
-SUMMARY:[선예매] 삼성라이온즈 vs LG (대구 삼성라이온즈파크)
-DESCRIPTION:삼성라이온즈 홈 시리즈 선예매\n상대팀: LG\n구장: 대구 삼성라이온즈파크\n시리즈 시작일: 2026-04-
+SUMMARY:[선예매] 삼성 vs LG (대구 삼성라이온즈파크)
+DESCRIPTION:삼성 홈 시리즈 선예매\n상대팀: LG\n구장: 대구 삼성라이온즈파크\n시리즈 시작일: 2026-04-
  17
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -132,8 +132,8 @@ UID:samsung-general-series-4@ticket-calendar
 DTSTAMP:20260315T114608Z
 DTSTART;TZID=Asia/Seoul:20260410T110000
 DTEND;TZID=Asia/Seoul:20260410T110500
-SUMMARY:[일반예매] 삼성라이온즈 vs LG (대구 삼성라이온즈파크)
-DESCRIPTION:삼성라이온즈 홈 시리즈 일반예매\n상대팀: LG\n구장: 대구 삼성라이온즈파크\n시리즈 시작일: 2026-04
+SUMMARY:[일반예매] 삼성 vs LG (대구 삼성라이온즈파크)
+DESCRIPTION:삼성 홈 시리즈 일반예매\n상대팀: LG\n구장: 대구 삼성라이온즈파크\n시리즈 시작일: 2026-04
  -17
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -148,8 +148,8 @@ UID:samsung-presale-series-5@ticket-calendar
 DTSTAMP:20260315T114608Z
 DTSTART;TZID=Asia/Seoul:20260413T110000
 DTEND;TZID=Asia/Seoul:20260413T110500
-SUMMARY:[선예매] 삼성라이온즈 vs SSG (대구 삼성라이온즈파크)
-DESCRIPTION:삼성라이온즈 홈 시리즈 선예매\n상대팀: SSG\n구장: 대구 삼성라이온즈파크\n시리즈 시작일: 2026-04
+SUMMARY:[선예매] 삼성 vs SSG (대구 삼성라이온즈파크)
+DESCRIPTION:삼성 홈 시리즈 선예매\n상대팀: SSG\n구장: 대구 삼성라이온즈파크\n시리즈 시작일: 2026-04
  -21
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -164,8 +164,8 @@ UID:samsung-general-series-5@ticket-calendar
 DTSTAMP:20260315T114608Z
 DTSTART;TZID=Asia/Seoul:20260414T110000
 DTEND;TZID=Asia/Seoul:20260414T110500
-SUMMARY:[일반예매] 삼성라이온즈 vs SSG (대구 삼성라이온즈파크)
-DESCRIPTION:삼성라이온즈 홈 시리즈 일반예매\n상대팀: SSG\n구장: 대구 삼성라이온즈파크\n시리즈 시작일: 2026-0
+SUMMARY:[일반예매] 삼성 vs SSG (대구 삼성라이온즈파크)
+DESCRIPTION:삼성 홈 시리즈 일반예매\n상대팀: SSG\n구장: 대구 삼성라이온즈파크\n시리즈 시작일: 2026-0
  4-21
 STATUS:CONFIRMED
 TRANSP:OPAQUE
